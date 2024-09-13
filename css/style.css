@@ -108,10 +108,10 @@ body {
     /* width: 1919px; */
     min-height: 987px;
     margin: 0 auto;
-    background-image: url(../images/baner.webp);
+    background-image: url(../images/banerSmall.webp);
     background-repeat: no-repeat;
     background-position: top right;
-    /* background-size: contain; */
+    background-size: cover;
 }
 
 .baner_container {
